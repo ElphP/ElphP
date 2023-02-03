@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ElphP alias L-FEJ.P</h1>
-<h3 align="center">I'm a Dev Web Junior</h3>
+<h3 align="center">I'm a Web Dev Junior</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elphp&label=Profile%20views&color=0e75b6&style=flat" alt="elphp" /> </p>
