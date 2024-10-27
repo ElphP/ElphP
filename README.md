@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/elphege-proisy-b1526a156?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7cJE%2B1lPTuO4Nz%2BygL%2F%2Fqw%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elphege proisy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/elphege-proisy-b1526a156?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7cJE%2B1lPTuO4Nz%2BygL%2F%2Fqw%3D%3D" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elphege proisy" height="30" width="40" /></a>
 
 
 
