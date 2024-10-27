@@ -21,7 +21,7 @@
 <br>
 Basic concepts:
 <br>
-![My Skills4](https://skillicons.dev/icons?i=java,docker,linux&theme=dark)
+![My Skills4](https://skillicons.dev/icons?i=java,docker,linux,ai,ps&theme=dark)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elphp&show_icons=true&locale=fr" alt="elphp" /></p>
 
 - 👨‍💻 All of my projects are available at [https://betadev.elphegeproisy.com/PortFolio2024/](https://betadev.elphegeproisy.com/PortFolio2024/)
